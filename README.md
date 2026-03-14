@@ -17,16 +17,16 @@ The dashboard provides an **interactive view of business performance**, allowing
 
 ## Workshop & Certification
 
-This project was developed as part of the **Oppo Power BI Workshop**, where participants built an interactive business intelligence dashboard using real-world ecommerce data.
+This dashboard project was developed as part of a **Data Analytics using Power BI workshop** conducted by **Tech Tip 24**.
 
 The workshop focused on:
 
-- Data visualization using Power BI
+- Data visualization with Power BI
 - Business KPI analysis
 - Dashboard design and storytelling
 - Interactive filtering and reporting
 
-A certificate of completion for the workshop is included in this repository.
+A certificate of participation is included in this repository.
 
 ## Dataset
 
@@ -152,7 +152,7 @@ Potential improvements to this project include:
 
 ## Certification
 
-Certificate of completion from the **Oppo Power BI Workshop** is available here:
+Certificate of completion from the **Data Analytics using Power BI workshop** is available here:
 
 certificates/oppo_powerbi_workshop_certificate.pdf
 
