@@ -99,17 +99,6 @@ Displays the distribution of sales across global markets such as:
 - Canada
 
 
-
-### Sales by Category
-
-Breakdown of sales across product categories:
-
-- Technology
-- Furniture
-- Office Supplies
-
-
-
 ## Dashboard Preview
 
 ![Dashboard Preview](images/dashboard_preview.png)
